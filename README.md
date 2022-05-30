@@ -15,7 +15,7 @@ On running the `.ipynb` file, a GUI window will pop up which looks like this:
 <img width="822" alt="Screenshot showing the home screen on running the first cell." src="https://user-images.githubusercontent.com/92393664/170831256-175117c4-e3c1-4253-a429-1c8acc4d6170.png">
 
 It has 5 tables in the database (2 tabs for each table - one to insert data and the other to display it) namely "exhibition", gallery"" "artist", "painting" and "customer". 
-After inserting the data in a table, press the submit button. A "Record added in xyz table" message will pop up if the insertion was done successfully, otherwise an error message will be printed in the ouput window on jupyter notebook/IDE.  
+After inserting the data in the input fields in a tab, press the submit button. A "Record added in xyz table" message will pop up if the insertion in the database was done successfully, otherwise an error message will be printed in the ouput window on jupyter notebook/IDE.  
   
 <img width="825" alt="Screenshot showing the pop-up message after entering the data." src="https://user-images.githubusercontent.com/92393664/170831289-7444d4a6-0f52-4e4a-93dc-f0d4015e3507.png">  
 
